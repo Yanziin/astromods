@@ -1,0 +1,17 @@
+{
+  "name": "AstroApis",
+  "version": "1.0.0",
+  "description": "Base de site de apis simples para cada um se aprofundar....",
+  "main": "two.js",
+    "scripts": {
+      "start": "node two.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+  "repository": "https://instagram.com/astrxno",
+  "author": "Astro Mods",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
